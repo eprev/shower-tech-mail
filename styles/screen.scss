@@ -248,7 +248,7 @@ a {
 			display: table;
 			width: $width - $right - $left;
 			height: 336px - $font-size * 2;
-			background: #000;
+			background: $color;
 			margin: 0;
 			padding: $font-size $right $font-size $left;
 		}
@@ -514,7 +514,7 @@ a {
 		margin: (-$height/2) 0 0 (-$width/2);
 		width: $width;
 		height: $height;
-		background: $color;
+		background: #000;
 		// Debug
 		&.debug:after {
 			position: absolute;
