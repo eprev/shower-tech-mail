@@ -1,4 +1,4 @@
-# Tech-Mail.ru theme for Shower HTML presentation engine
+# Tech-Mail.ru theme for Shower
 
 To see Bright theme for Shower in action:
 
