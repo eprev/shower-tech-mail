@@ -1,0 +1,52 @@
+// Tech-Mail.ru theme for Shower HTML presentation engine: github.com/shower/shower
+// Copyright © 2010–2013 Vadim Makeev, pepelsbey.net
+// Copyright © 2014 Anton Eprev, eprev.org
+// Licensed under MIT license
+
+// PF Isotext Pro
+@font-face {
+	font-family: 'PF Isotext Pro';
+	src: url('../fonts/PF.Isotext.Pro.Bold.woff');
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'PF Isotext Pro';
+	src: url('../fonts/PF.Isotext.Pro.Bold.Italic.woff') format('woff');
+	font-style: italic;
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'PF Isotext Pro';
+	src: url('../fonts/PF.Isotext.Pro.Italic.woff') format('woff');
+	font-style: italic;
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'PF Isotext Pro';
+	src: url('../fonts/PF.Isotext.Pro.Regular.woff') format('woff');
+	font-weight: 400;
+}
+
+// PF Isotext Pro Light
+@font-face {
+	font-family: 'PF Isotext Pro Light';
+	src: url('../fonts/PF.Isotext.Pro.Light.woff') format('woff');
+	font-weight: 200;
+}
+@font-face {
+	font-family: 'PF Isotext Pro';
+	src: url('../fonts/PF.Isotext.Pro.Light.Italic.woff') format('woff');
+	font-style: italic;
+	font-weight: 200;
+}
+
+// Anka Coder
+@font-face {
+	font-family: 'Anka Coder';
+	src: url(../fonts/Anka.Coder.woff) format('woff');
+}
+@font-face {
+	font-family:'Anka Coder';
+	src:url(../fonts/Anka.Coder.Italic.woff) format('woff');
+	font-style:italic;
+}
